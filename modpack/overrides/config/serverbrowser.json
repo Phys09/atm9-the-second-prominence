@@ -1,0 +1,12 @@
+{
+  "serverBrowserNotification": false,
+  "bisectPackID": "19081",
+  "modPackFilter": "Prominence II Classic",
+  "officialServers": [
+    {
+      "name": "Official Server",
+      "ipAddress": "135.148.168.47:25566"
+    }
+  ],
+  "blacklistedServers": []
+}

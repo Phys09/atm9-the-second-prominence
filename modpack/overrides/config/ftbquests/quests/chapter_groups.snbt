@@ -8,5 +8,10 @@
 		{ id: "1DA67E79B40AB130", title: "{atm9.chapters.group.6.}" }
 		{ id: "02FE661031A105D8", title: "{atm9.chapters.group.7.}" }
 		{ id: "752CDE464613A1ED", title: "{atm9.chapters.group.8.}" }
+		{ id: "19B20CC85415EF9B", title: "Campaign" }
+		{ id: "3E586F2160161EEA", title: "Exploration" }
+		{ id: "48161D2AD6657389", title: "Combat" }
+		{ id: "2EB5D2DAB54B0B26", title: "Magic" }
+		{ id: "49D52BD6447C5CC0", title: "Tech" }
 	]
 }

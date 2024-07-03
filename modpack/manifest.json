@@ -807,14 +807,6 @@
       }
     },
     {
-      "projectID": 263420,
-      "fileID": 5394772,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's Minimap"
-      }
-    },
-    {
       "projectID": 264231,
       "fileID": 5122408,
       "required": true,
@@ -1504,15 +1496,6 @@
           308989,
           309927
         ]
-      }
-    },
-    {
-      "projectID": 317780,
-      "fileID": 5394829,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's World Map",
-        "explicit": false
       }
     },
     {
@@ -5219,18 +5202,6 @@
       "required": true,
       "__meta": {
         "name": "Towers of the Wild Modded"
-      }
-    },
-    {
-      "projectID": 866084,
-      "fileID": 5439172,
-      "required": true,
-      "__meta": {
-        "name": "XaeroPlus",
-        "dependencies": [
-          317780,
-          263420
-        ]
       }
     },
     {
