@@ -918,7 +918,7 @@
     },
     {
       "projectID": 272515,
-      "fileID": 5454909,
+      "fileID": 5454907,
       "required": true,
       "__meta": {
         "name": "Better Advancements"
@@ -1492,7 +1492,7 @@
     },
     {
       "projectID": 318012,
-      "fileID": 5308338,
+      "fileID": 5141086,
       "required": true,
       "__meta": {
         "name": "DefaultSettings",
@@ -1870,7 +1870,7 @@
     },
     {
       "projectID": 358700,
-      "fileID": 5160801,
+      "fileID": 4670879,
       "required": true,
       "__meta": {
         "name": "More Dragon Eggs"
@@ -2168,7 +2168,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 5460312,
+      "fileID": 5460309,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -2384,7 +2384,7 @@
     },
     {
       "projectID": 407488,
-      "fileID": 5426165,
+      "fileID": 5263299,
       "required": true,
       "__meta": {
         "name": "Illagers Wear Armor"
@@ -3525,7 +3525,7 @@
     },
     {
       "projectID": 551894,
-      "fileID": 4688941,
+      "fileID": 4688940,
       "required": true,
       "__meta": {
         "name": "Better Compatibility Checker"
@@ -4089,7 +4089,7 @@
     },
     {
       "projectID": 623560,
-      "fileID": 4714706,
+      "fileID": 4583425,
       "required": true,
       "__meta": {
         "name": "Log Begone"
@@ -4420,7 +4420,7 @@
     },
     {
       "projectID": 656346,
-      "fileID": 5046568,
+      "fileID": 4892299,
       "required": true,
       "__meta": {
         "name": "Load My F***ing Tags"
@@ -5528,7 +5528,7 @@
     },
     {
       "projectID": 899386,
-      "fileID": 5224496,
+      "fileID": 5224495,
       "required": true,
       "__meta": {
         "name": "Just Enough Breeding (JEBr)"
@@ -5667,7 +5667,7 @@
     },
     {
       "projectID": 908741,
-      "fileID": 5496987,
+      "fileID": 5265338,
       "required": true,
       "__meta": {
         "name": "Embeddium"
