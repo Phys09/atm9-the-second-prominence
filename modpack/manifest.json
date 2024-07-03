@@ -1664,14 +1664,6 @@
       }
     },
     {
-      "projectID": 344787,
-      "fileID": 5465675,
-      "required": true,
-      "__meta": {
-        "name": "XP Tome"
-      }
-    },
-    {
       "projectID": 347706,
       "fileID": 5283902,
       "required": true,
@@ -2122,18 +2114,6 @@
       "required": true,
       "__meta": {
         "name": "Complementary Shaders - Unbound"
-      }
-    },
-    {
-      "projectID": 386134,
-      "fileID": 5363345,
-      "required": true,
-      "__meta": {
-        "name": "FTB Ultimine (Forge)",
-        "dependencies": [
-          419699,
-          404465
-        ]
       }
     },
     {
@@ -2588,14 +2568,6 @@
       "required": true,
       "__meta": {
         "name": "FlickerFix"
-      }
-    },
-    {
-      "projectID": 431611,
-      "fileID": 5481492,
-      "required": true,
-      "__meta": {
-        "name": "Vein Mining (Fabric/Forge/Quilt)"
       }
     },
     {
