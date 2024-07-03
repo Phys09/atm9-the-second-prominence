@@ -67,14 +67,6 @@
       }
     },
     {
-      "projectID": 64760,
-      "fileID": 5424863,
-      "required": true,
-      "__meta": {
-        "name": "Security Craft"
-      }
-    },
-    {
       "projectID": 69162,
       "fileID": 5374122,
       "required": true,
@@ -304,17 +296,6 @@
         "dependencies": [
           233105,
           326041
-        ]
-      }
-    },
-    {
-      "projectID": 235577,
-      "fileID": 4753168,
-      "required": true,
-      "__meta": {
-        "name": "TrashSlot",
-        "dependencies": [
-          531761
         ]
       }
     },
@@ -673,25 +654,6 @@
       }
     },
     {
-      "projectID": 254268,
-      "fileID": 5264637,
-      "required": true,
-      "__meta": {
-        "name": "Torchmaster"
-      }
-    },
-    {
-      "projectID": 254284,
-      "fileID": 5492111,
-      "required": true,
-      "__meta": {
-        "name": "AmbientSounds 6",
-        "dependencies": [
-          257814
-        ]
-      }
-    },
-    {
       "projectID": 255308,
       "fileID": 5302178,
       "required": true,
@@ -748,14 +710,6 @@
       "required": true,
       "__meta": {
         "name": "CreativeCore"
-      }
-    },
-    {
-      "projectID": 260262,
-      "fileID": 5393183,
-      "required": true,
-      "__meta": {
-        "name": "Tool Belt"
       }
     },
     {
@@ -1061,14 +1015,6 @@
       }
     },
     {
-      "projectID": 289240,
-      "fileID": 5046069,
-      "required": true,
-      "__meta": {
-        "name": "Paragliders"
-      }
-    },
-    {
       "projectID": 289412,
       "fileID": 5418359,
       "required": true,
@@ -1335,14 +1281,6 @@
       }
     },
     {
-      "projectID": 308240,
-      "fileID": 5161389,
-      "required": true,
-      "__meta": {
-        "name": "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)"
-      }
-    },
-    {
       "projectID": 308989,
       "fileID": 5281700,
       "required": true,
@@ -1378,14 +1316,6 @@
       "required": true,
       "__meta": {
         "name": "Curios API (Forge/NeoForge)"
-      }
-    },
-    {
-      "projectID": 310088,
-      "fileID": 4582332,
-      "required": true,
-      "__meta": {
-        "name": "Snowmancy"
       }
     },
     {
@@ -1507,22 +1437,6 @@
       }
     },
     {
-      "projectID": 319598,
-      "fileID": 5369369,
-      "required": true,
-      "__meta": {
-        "name": "Structure Compass"
-      }
-    },
-    {
-      "projectID": 320163,
-      "fileID": 4598390,
-      "required": true,
-      "__meta": {
-        "name": "Ambient Environment"
-      }
-    },
-    {
       "projectID": 320926,
       "fileID": 4810184,
       "required": true,
@@ -1582,30 +1496,11 @@
       }
     },
     {
-      "projectID": 331723,
-      "fileID": 4681097,
-      "required": true,
-      "__meta": {
-        "name": "Bamboo Everything",
-        "dependencies": [
-          419699
-        ]
-      }
-    },
-    {
       "projectID": 331936,
       "fileID": 5143956,
       "required": true,
       "__meta": {
         "name": "Citadel"
-      }
-    },
-    {
-      "projectID": 331983,
-      "fileID": 5028746,
-      "required": true,
-      "__meta": {
-        "name": "Corail Woodcutter"
       }
     },
     {
@@ -1706,30 +1601,11 @@
       }
     },
     {
-      "projectID": 350464,
-      "fileID": 4671986,
-      "required": true,
-      "__meta": {
-        "name": "Chimes"
-      }
-    },
-    {
       "projectID": 351264,
       "fileID": 5402061,
       "required": true,
       "__meta": {
         "name": "Kotlin for Forge"
-      }
-    },
-    {
-      "projectID": 351441,
-      "fileID": 4613538,
-      "required": true,
-      "__meta": {
-        "name": "Pick Up Notifier [Forge & Fabric]",
-        "dependencies": [
-          495476
-        ]
       }
     },
     {
@@ -1790,27 +1666,11 @@
       }
     },
     {
-      "projectID": 353942,
-      "fileID": 5263159,
-      "required": true,
-      "__meta": {
-        "name": "Snow Under Trees"
-      }
-    },
-    {
       "projectID": 354339,
       "fileID": 5368592,
       "required": true,
       "__meta": {
         "name": "Open Loader"
-      }
-    },
-    {
-      "projectID": 355720,
-      "fileID": 4703584,
-      "required": true,
-      "__meta": {
-        "name": "Frosted Friends"
       }
     },
     {
@@ -2004,25 +1864,6 @@
       }
     },
     {
-      "projectID": 373774,
-      "fileID": 4594973,
-      "required": true,
-      "__meta": {
-        "name": "Rare Ice (Forge/Fabric)"
-      }
-    },
-    {
-      "projectID": 377281,
-      "fileID": 4809004,
-      "required": true,
-      "__meta": {
-        "name": "Dark Paintings",
-        "dependencies": [
-          228525
-        ]
-      }
-    },
-    {
       "projectID": 377897,
       "fileID": 5381132,
       "required": true,
@@ -2106,14 +1947,6 @@
       "required": true,
       "__meta": {
         "name": "Additional Lights"
-      }
-    },
-    {
-      "projectID": 385587,
-      "fileID": 5403840,
-      "required": true,
-      "__meta": {
-        "name": "Complementary Shaders - Unbound"
       }
     },
     {
@@ -2233,14 +2066,6 @@
       "required": true,
       "__meta": {
         "name": "Construction Wand"
-      }
-    },
-    {
-      "projectID": 399757,
-      "fileID": 4617304,
-      "required": true,
-      "__meta": {
-        "name": "Charging Gadgets"
       }
     },
     {
@@ -2400,17 +2225,6 @@
       }
     },
     {
-      "projectID": 411816,
-      "fileID": 5468674,
-      "required": true,
-      "__meta": {
-        "name": "Simple Discord RPC",
-        "dependencies": [
-          867099
-        ]
-      }
-    },
-    {
       "projectID": 412082,
       "fileID": 5458843,
       "required": true,
@@ -2555,14 +2369,6 @@
       }
     },
     {
-      "projectID": 431203,
-      "fileID": 5394067,
-      "required": true,
-      "__meta": {
-        "name": "MakeUp - Ultra Fast | Shaders"
-      }
-    },
-    {
       "projectID": 431430,
       "fileID": 4731559,
       "required": true,
@@ -2587,14 +2393,6 @@
       "required": true,
       "__meta": {
         "name": "Not Enough Animations"
-      }
-    },
-    {
-      "projectID": 435044,
-      "fileID": 4596768,
-      "required": true,
-      "__meta": {
-        "name": "Better Third Person"
       }
     },
     {
@@ -2688,14 +2486,6 @@
       }
     },
     {
-      "projectID": 449655,
-      "fileID": 4605319,
-      "required": true,
-      "__meta": {
-        "name": "Void Totem (Forge)"
-      }
-    },
-    {
       "projectID": 451682,
       "fileID": 4772109,
       "required": true,
@@ -2713,14 +2503,6 @@
           287342,
           306770
         ]
-      }
-    },
-    {
-      "projectID": 452834,
-      "fileID": 4690530,
-      "required": true,
-      "__meta": {
-        "name": "RightClickHarvest"
       }
     },
     {
@@ -2790,14 +2572,6 @@
       }
     },
     {
-      "projectID": 463155,
-      "fileID": 4695661,
-      "required": true,
-      "__meta": {
-        "name": "Falling Leaves (NeoForge/Forge)"
-      }
-    },
-    {
       "projectID": 463703,
       "fileID": 5398254,
       "required": true,
@@ -2845,14 +2619,6 @@
         "dependencies": [
           283644
         ]
-      }
-    },
-    {
-      "projectID": 478559,
-      "fileID": 4586849,
-      "required": true,
-      "__meta": {
-        "name": "Measurements"
       }
     },
     {
@@ -2932,14 +2698,6 @@
       }
     },
     {
-      "projectID": 495336,
-      "fileID": 5401035,
-      "required": true,
-      "__meta": {
-        "name": "Advanced Netherite (Forge / NeoForge)"
-      }
-    },
-    {
       "projectID": 495476,
       "fileID": 5475403,
       "required": true,
@@ -2968,30 +2726,11 @@
       }
     },
     {
-      "projectID": 496913,
-      "fileID": 4998195,
-      "required": true,
-      "__meta": {
-        "name": "Twigs"
-      }
-    },
-    {
       "projectID": 498794,
       "fileID": 4638051,
       "required": true,
       "__meta": {
         "name": "Iron Chests: Restocked"
-      }
-    },
-    {
-      "projectID": 499826,
-      "fileID": 4930510,
-      "required": true,
-      "__meta": {
-        "name": "Advancement Plaques [Forge]",
-        "dependencies": [
-          520110
-        ]
       }
     },
     {
@@ -3154,25 +2893,6 @@
       }
     },
     {
-      "projectID": 521480,
-      "fileID": 5429204,
-      "required": true,
-      "__meta": {
-        "name": "Skin Layers 3D (Fabric/Forge)"
-      }
-    },
-    {
-      "projectID": 521590,
-      "fileID": 4985588,
-      "required": true,
-      "__meta": {
-        "name": "Item Highlighter [Forge]",
-        "dependencies": [
-          520110
-        ]
-      }
-    },
-    {
       "projectID": 522992,
       "fileID": 5280792,
       "required": true,
@@ -3196,17 +2916,6 @@
         "name": "JourneyMap Integration",
         "dependencies": [
           32274
-        ]
-      }
-    },
-    {
-      "projectID": 526901,
-      "fileID": 4765727,
-      "required": true,
-      "__meta": {
-        "name": "Memory Settings[Forge/Fabric]",
-        "dependencies": [
-          326652
         ]
       }
     },
@@ -3582,17 +3291,6 @@
       }
     },
     {
-      "projectID": 566142,
-      "fileID": 5010629,
-      "required": true,
-      "__meta": {
-        "name": "Snowy Spirit",
-        "dependencies": [
-          499980
-        ]
-      }
-    },
-    {
       "projectID": 567114,
       "fileID": 4863801,
       "required": true,
@@ -3667,14 +3365,6 @@
         "dependencies": [
           69163
         ]
-      }
-    },
-    {
-      "projectID": 574123,
-      "fileID": 4645933,
-      "required": true,
-      "__meta": {
-        "name": "Dark Mode Everywhere"
       }
     },
     {
@@ -3826,14 +3516,6 @@
       }
     },
     {
-      "projectID": 585546,
-      "fileID": 4743106,
-      "required": true,
-      "__meta": {
-        "name": "BisectHosting Server Integration Menu [FORGE]"
-      }
-    },
-    {
       "projectID": 586095,
       "fileID": 5498082,
       "required": true,
@@ -3893,14 +3575,6 @@
       "required": true,
       "__meta": {
         "name": "Eccentric Tome"
-      }
-    },
-    {
-      "projectID": 602059,
-      "fileID": 5184455,
-      "required": true,
-      "__meta": {
-        "name": "Friends&Foes (Forge/NeoForge) (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Rascal, Tuff Golem)"
       }
     },
     {
@@ -4061,22 +3735,6 @@
       }
     },
     {
-      "projectID": 627196,
-      "fileID": 5090810,
-      "required": true,
-      "__meta": {
-        "name": "Showcase Item"
-      }
-    },
-    {
-      "projectID": 627557,
-      "fileID": 5403838,
-      "required": true,
-      "__meta": {
-        "name": "Complementary Shaders - Reimagined"
-      }
-    },
-    {
       "projectID": 627986,
       "fileID": 4847009,
       "required": true,
@@ -4112,14 +3770,6 @@
         "dependencies": [
           401955
         ]
-      }
-    },
-    {
-      "projectID": 630834,
-      "fileID": 4607831,
-      "required": true,
-      "__meta": {
-        "name": "Simply Houses"
       }
     },
     {
@@ -4181,14 +3831,6 @@
       }
     },
     {
-      "projectID": 634005,
-      "fileID": 5060722,
-      "required": true,
-      "__meta": {
-        "name": "Sooty Chimneys"
-      }
-    },
-    {
       "projectID": 634062,
       "fileID": 4610474,
       "required": true,
@@ -4223,14 +3865,6 @@
       "required": true,
       "__meta": {
         "name": "Structory"
-      }
-    },
-    {
-      "projectID": 636608,
-      "fileID": 5337548,
-      "required": true,
-      "__meta": {
-        "name": "Open Parties and Claims"
       }
     },
     {
@@ -4330,14 +3964,6 @@
         "dependencies": [
           268560
         ]
-      }
-    },
-    {
-      "projectID": 656147,
-      "fileID": 5116975,
-      "required": true,
-      "__meta": {
-        "name": "Caupona"
       }
     },
     {
@@ -4472,17 +4098,6 @@
       }
     },
     {
-      "projectID": 670011,
-      "fileID": 5340329,
-      "required": true,
-      "__meta": {
-        "name": "Nether Depths Upgrade",
-        "dependencies": [
-          388172
-        ]
-      }
-    },
-    {
       "projectID": 676136,
       "fileID": 5200949,
       "required": true,
@@ -4538,17 +4153,6 @@
       "required": true,
       "__meta": {
         "name": "ObsidianUI"
-      }
-    },
-    {
-      "projectID": 686435,
-      "fileID": 4613293,
-      "required": true,
-      "__meta": {
-        "name": "Leaves Be Gone [Forge & Fabric]",
-        "dependencies": [
-          495476
-        ]
       }
     },
     {
@@ -4671,17 +4275,6 @@
       }
     },
     {
-      "projectID": 711903,
-      "fileID": 5049340,
-      "required": true,
-      "__meta": {
-        "name": "Friends&Foes - Beekeeper Hut (Forge/NeoForge)",
-        "dependencies": [
-          602059
-        ]
-      }
-    },
-    {
       "projectID": 714059,
       "fileID": 5020441,
       "required": true,
@@ -4704,30 +4297,11 @@
       }
     },
     {
-      "projectID": 734339,
-      "fileID": 5467970,
-      "required": true,
-      "__meta": {
-        "name": "Ping Wheel"
-      }
-    },
-    {
       "projectID": 738663,
       "fileID": 4742680,
       "required": true,
       "__meta": {
         "name": "Not Enough Recipe Book [NERB]"
-      }
-    },
-    {
-      "projectID": 782443,
-      "fileID": 5034684,
-      "required": true,
-      "__meta": {
-        "name": "Friends&Foes - Flowery Mooblooms (Forge/NeoForge)",
-        "dependencies": [
-          602059
-        ]
       }
     },
     {
@@ -4763,14 +4337,6 @@
         "dependencies": [
           421850
         ]
-      }
-    },
-    {
-      "projectID": 825617,
-      "fileID": 5415270,
-      "required": true,
-      "__meta": {
-        "name": "Server Browser [Fabric/Forge]"
       }
     },
     {
@@ -4860,25 +4426,6 @@
       "required": true,
       "__meta": {
         "name": "Prominent"
-      }
-    },
-    {
-      "projectID": 839158,
-      "fileID": 5275497,
-      "required": true,
-      "__meta": {
-        "name": "Wares"
-      }
-    },
-    {
-      "projectID": 840873,
-      "fileID": 5062640,
-      "required": true,
-      "__meta": {
-        "name": "Biome Music[Forge/Fabric]",
-        "dependencies": [
-          326652
-        ]
       }
     },
     {
@@ -4992,28 +4539,6 @@
       }
     },
     {
-      "projectID": 852665,
-      "fileID": 5107399,
-      "required": true,
-      "__meta": {
-        "name": "Mutant Monsters [Forge & Fabric]",
-        "dependencies": [
-          495476
-        ]
-      }
-    },
-    {
-      "projectID": 852669,
-      "fileID": 5081354,
-      "required": true,
-      "__meta": {
-        "name": "Mindful Darkness [Forge & Fabric]",
-        "dependencies": [
-          495476
-        ]
-      }
-    },
-    {
       "projectID": 853794,
       "fileID": 5206484,
       "required": true,
@@ -5060,17 +4585,6 @@
       "required": true,
       "__meta": {
         "name": "Cristel Lib"
-      }
-    },
-    {
-      "projectID": 857971,
-      "fileID": 5056972,
-      "required": true,
-      "__meta": {
-        "name": "Nether Chested [Forge & Fabric]",
-        "dependencies": [
-          495476
-        ]
       }
     },
     {
@@ -5131,14 +4645,6 @@
       }
     },
     {
-      "projectID": 870470,
-      "fileID": 4985079,
-      "required": true,
-      "__meta": {
-        "name": "Plenty of Golems"
-      }
-    },
-    {
       "projectID": 870831,
       "fileID": 5174402,
       "required": true,
@@ -5152,26 +4658,6 @@
       "required": true,
       "__meta": {
         "name": "Mixin In Heaven"
-      }
-    },
-    {
-      "projectID": 871735,
-      "fileID": 5271010,
-      "required": true,
-      "__meta": {
-        "name": "Twilight's Flavors & Delight",
-        "dependencies": [
-          227639,
-          398521
-        ]
-      }
-    },
-    {
-      "projectID": 871755,
-      "fileID": 5483373,
-      "required": true,
-      "__meta": {
-        "name": "Exposure"
       }
     },
     {
@@ -5389,17 +4875,6 @@
       "required": true,
       "__meta": {
         "name": "Time in a bottle [FORGE\\NEOFORGE\\FABRIC]"
-      }
-    },
-    {
-      "projectID": 896746,
-      "fileID": 5467925,
-      "required": true,
-      "__meta": {
-        "name": "Amendments",
-        "dependencies": [
-          499980
-        ]
       }
     },
     {
@@ -5676,14 +5151,6 @@
       }
     },
     {
-      "projectID": 920268,
-      "fileID": 5190020,
-      "required": true,
-      "__meta": {
-        "name": "Blossom Blade"
-      }
-    },
-    {
       "projectID": 924854,
       "fileID": 5162617,
       "required": true,
@@ -5890,14 +5357,6 @@
       "required": true,
       "__meta": {
         "name": "Zeta"
-      }
-    },
-    {
-      "projectID": 974855,
-      "fileID": 5170694,
-      "required": true,
-      "__meta": {
-        "name": "Byzantine Style Pack for Minecolonies"
       }
     },
     {
