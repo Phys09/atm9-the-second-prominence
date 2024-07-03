@@ -11,9 +11,9 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.2.61",
-  "author": "ATMTeam",
-  "name": "All the Mods 9",
+  "version": "0.0.1",
+  "author": "Phys09",
+  "name": "ATM9 The Second Prominence",
   "files": [
     {
       "projectID": 32274,
