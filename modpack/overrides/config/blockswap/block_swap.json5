@@ -87,7 +87,6 @@ to make editing this file much easier.
 	"swapper": {
 		"techreborn:tin_ore": "thermal:tin_ore",
 		"techreborn:deepslate_tin_ore": "thermal:deepslate_tin_ore",
-		"techreborn:silver_ore": "thermal:silver_ore",
-		"techreborn:deepslate_silver_ore": "thermal:deepslate_silver_ore"
+		"techreborn:silver_ore": "thermal:silver_ore"
 	}
 }

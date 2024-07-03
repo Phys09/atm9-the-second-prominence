@@ -347,15 +347,6 @@
       }
     },
     {
-      "projectID": 237749,
-      "fileID": 5096038,
-      "required": true,
-      "__meta": {
-        "name": "CoroUtil",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 238086,
       "fileID": 5454840,
       "required": true,
@@ -1986,19 +1977,6 @@
       }
     },
     {
-      "projectID": 367706,
-      "fileID": 5340225,
-      "required": true,
-      "__meta": {
-        "name": "FancyMenu",
-        "explicit": false,
-        "dependencies": [
-          938643,
-          410295
-        ]
-      }
-    },
-    {
       "projectID": 368098,
       "fileID": 5414924,
       "required": true,
@@ -2867,14 +2845,6 @@
       }
     },
     {
-      "projectID": 468893,
-      "fileID": 4598162,
-      "required": true,
-      "__meta": {
-        "name": "Block Swap"
-      }
-    },
-    {
       "projectID": 469301,
       "fileID": 4625522,
       "required": true,
@@ -3167,18 +3137,6 @@
       }
     },
     {
-      "projectID": 511770,
-      "fileID": 5117077,
-      "required": true,
-      "__meta": {
-        "name": "Drippy Loading Screen",
-        "dependencies": [
-          410295,
-          367706
-        ]
-      }
-    },
-    {
       "projectID": 513688,
       "fileID": 5351328,
       "required": true,
@@ -3361,14 +3319,6 @@
           351725,
           220318
         ]
-      }
-    },
-    {
-      "projectID": 533748,
-      "fileID": 5275068,
-      "required": true,
-      "__meta": {
-        "name": "Chalk"
       }
     },
     {
@@ -5809,15 +5759,6 @@
       }
     },
     {
-      "projectID": 938643,
-      "fileID": 5109692,
-      "required": true,
-      "__meta": {
-        "name": "Melody",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 941096,
       "fileID": 5282394,
       "required": true,
@@ -5873,17 +5814,6 @@
         "name": "Glassential Renewed [Forge / Fabric]",
         "dependencies": [
           854949
-        ]
-      }
-    },
-    {
-      "projectID": 945479,
-      "fileID": 5267703,
-      "required": true,
-      "__meta": {
-        "name": "What Are They Up To (Watut)",
-        "dependencies": [
-          237749
         ]
       }
     },
