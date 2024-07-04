@@ -1437,6 +1437,14 @@
       }
     },
     {
+      "projectID": 319598,
+      "fileID": 5369369,
+      "required": true,
+      "__meta": {
+        "name": "Structure Compass"
+      }
+    },
+    {
       "projectID": 320926,
       "fileID": 4810184,
       "required": true,
